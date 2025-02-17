@@ -319,8 +319,8 @@ statusCode, loginRepsonse = send_amf(
         gen_session_id()
     )
 
-USERNAME = input("PSEUDO : ")
-PASSWORD = input("MOT DE PASSE : ")
+USERNAME = input("USER : ")
+PASSWORD = input("PASSWORD : ")
 SERVER = input("SERVER : ")
 NEW_EMAIL = input("NEW EMAIL : ")
 
